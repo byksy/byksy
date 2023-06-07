@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Go and React**
+- 🌱 I’m currently learning **Go and Angular**
 
 - 📝 I regularly write articles on [https://dev.to/byksy](https://dev.to/byksy)
 
