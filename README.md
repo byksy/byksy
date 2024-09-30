@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/byksy](https://dev.to/byksy)
 
-- 📫 How to reach me **x.mustafabuyuksoy.com**
+- 📫 How to reach me **x.mustafabuyuksoy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
